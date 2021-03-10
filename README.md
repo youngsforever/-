@@ -1,5 +1,5 @@
 # SmartDogFeeder
-This project is developed using Tuya SDK, which enables you to quickly develop branded apps connecting and controlling smart scenarios of many devices.         For more information, please check Tuya Developer Website.
+This project is developed using Tuya SDK, which enables you to quickly develop branded apps connecting and controlling smart scenarios of many devices.         For more information, please check Tuya Developer Website.  
 基于涂鸦SDK进行开发的学习型项目，它使您能够快速开发连接和控制许多智能场景的应用程序设备。更多信息请查看涂鸦开发者网站。
 
 # 一、方案标题
@@ -7,9 +7,9 @@ This project is developed using Tuya SDK, which enables you to quickly develop b
   
 # 二、方案应用场景地点：
   地点：  
-    居家室内
+    居家室内  
   场景：  
-     平常加班比较多，又喜欢养宠物，为了主子不跟我一样饮食不规律，以及主子饿了着实有点疯狂。
+     平常加班比较多，又喜欢养宠物，为了主子不跟我一样饮食不规律，以及主子饿了着实有点疯狂。  
   功能：  
     主人可通过“智慧旺财投食器”远程操作APP/小程序，给旺财进行投食。  
     1、根据主人设定的时间、频率以及重量，每天定时、定量投放食物；  
@@ -21,7 +21,7 @@ This project is developed using Tuya SDK, which enables you to quickly develop b
     7、语音模块（待定），时间允许的话，主人可通过指定语音命令进行主动投食，食量根据命令来控制；  
     8、电源与硬件中间增加充电宝缓冲，先暂时当后备电源，预防停电。  
    涉及硬件：  
-      亚克力外壳、食物罐（考虑加大）、水罐、食物盘、压力传感器、水位传感器、水嘴、直流电机、LED灯带、充电宝、开关等
+      亚克力外壳、食物罐（考虑加大）、水罐、食物盘、压力传感器、水位传感器、水嘴、直流电机、LED灯带、充电宝、开关等  
    
 
   
